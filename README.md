@@ -10,6 +10,10 @@ The tables and graphs have a horizontal scroll on mobile when the viewport becom
 
 ## Screen Shots
 
+**LOGIN PAGE**
+
+
+
 ## Installing
 
 1. First install the YOURLS scripts and database.
@@ -27,5 +31,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* We took inspiration from the layout and design of [Sleeky](https://github.com/Flynntes/Sleeky) and used a number of their styles for the tables.
+* We took inspiration from the layout and design of [Sleeky](https://github.com/Flynntes/Sleeky) and used a number of their styles for the tables and other elements.
 * [YOURLS](https://github.com/YOURLS/YOURLS) The URL shortener PHP scripts.
