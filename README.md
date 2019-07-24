@@ -6,6 +6,8 @@ The theme includes a slide in off page navigation, fixed below the nav url short
 
 The tables and graphs have a horizontal scroll on mobile when the viewport becomes too small.
 
+**[Air 66 Design Website](https://air66design.com)**
+
 ## Screen Shots
 
 ## Installing
@@ -26,4 +28,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * We took inspiration from the layout and design of [Sleeky](https://github.com/Flynntes/Sleeky) and used a number of their styles for the tables.
-* [YOURLS](https://github.com/YOURLS/YOURLS)
+* [YOURLS](https://github.com/YOURLS/YOURLS) The URL shortener PHP scripts.
