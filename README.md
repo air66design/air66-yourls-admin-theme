@@ -1,5 +1,7 @@
 # Air 66 Design YOURLS Admin Theme
 
+[![Air 66 Design logo](screenshots/A66-Logo.png)](https://air66design.com)
+
 This is a responsive admin theme for use with [YOURLS](https://github.com/YOURLS/YOURLS), a self hosted set of PHP scripts that let you run your own URL shortener.
 
 The theme includes a slide in off page navigation, fixed below the nav url shortener on laptop and desktop and a relative postioned url shortener on mobile.
@@ -12,9 +14,15 @@ The tables and graphs have a horizontal scroll on mobile when the viewport becom
 
 **LOGIN PAGE**
 
+![](screenshots/login.png)
+
 **ADMIN PAGE**
 
+![](screenshots/admin.png)
+
 **NAV OPEN**
+
+![](screenshots/nav-open.png)
 
 ## Installing
 
