@@ -12,7 +12,9 @@ The tables and graphs have a horizontal scroll on mobile when the viewport becom
 
 **LOGIN PAGE**
 
+**ADMIN PAGE**
 
+**NAV OPEN**
 
 ## Installing
 
