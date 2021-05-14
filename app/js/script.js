@@ -77,7 +77,7 @@ $( document ).ready(function() {
         // Update footer
         var content = $(this).html();
         var i = 77
-        var updated_content = "Running on" + content.slice(13, i) + '& <a href="https://air66design.com/" title="Air 66 Design Ltd" target="_blank">Air 66 Design Ltd</a>' + content.slice(i-1)
+        var updated_content = "Running on " + content.slice(13, i) + ' & <a href="https://air66design.com/" title="Air 66 Design Ltd" target="_blank">Air 66 Design Ltd</a>' + content.slice(i)
         $(this).html(updated_content);
       }
   });
