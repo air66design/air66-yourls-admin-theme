@@ -5,7 +5,7 @@ $( document ).ready(function() {
     url = $('meta[name=pluginURL]').attr("content");
   } else {
     // If for some reason we can't find the URL attribute
-    url = "/user/plugins/air66Theme";
+    url = "/user/plugins/air66theme";
   }
 	
 // Detect login page
