@@ -27,7 +27,7 @@ The tables and graphs have a horizontal scroll on mobile when the viewport becom
 ## Installing
 
 1. First install the YOURLS scripts and database.
-2. Download or clone this repo into the plugins folder in your YOURLS install `user/plugins/`.
+2. Download or clone this repo into the plugins folder in your YOURLS install `user/plugins/`. Make sure the folder is called `air66theme` to reduce potential issues.
 3. Login into the admin area of YOURLS and activate the plugin.
 4. The Air 66 Admin Theme is now active.
 
